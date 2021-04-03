@@ -7,7 +7,7 @@
 
 "45 4 8 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkin_env.js, tag=机场签到, img-url=https://raw.githubusercontent.com/58xinian/icon/master/glados_animation.gif, enabled=true",
   
-{"__comment": '666'}
+{"__comment": "666"}
 "1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/elem/elemCheckIn.js, tag=饿了么-打卡领红包 ,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/elem.png, enabled=true",
 "50 23 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/elem/elemPea.js, tag=饿了么-遗忘的吃货豆 ,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/elem.png, enabled=true",
   
