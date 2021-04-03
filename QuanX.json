@@ -25,7 +25,6 @@
 "40 2 8 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/qunar/qunar.js, tag=去哪儿, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/qunar.png, enabled=true",
 "20 3 8 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/v2ex/v2ex.js, tag=V2EX, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/v2ex.png, enabled=true",
 "30 3 8 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.js, tag=腾讯视频, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/videoqq.png, enabled=true",
-"12 4 8 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/qqmusic/qqmusic.js, tag=QQ音乐 img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/qqmusic.png, enabled=true",
 "40 4 8 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/mgtv/mgtv.js, tag=芒果TV, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/mgtv.png, enabled=true",
 "00 5 8 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.js, tag=中国联通, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/10010.png, enabled=true",
 "20 5 8 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10086/10086.js, tag=中国移动, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/10086.png, enabled=true",
