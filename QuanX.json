@@ -64,8 +64,8 @@
 
 
 {"_comment": "By 799953468"},
-"2 0 * * * https://raw.githubusercontent.com/799953468/Quantumult-X/master/script/JD/jd_paopao.js, tag=泡泡大作战, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_paopao.png, enabled=true"
-  
+"2 0 * * * https://raw.githubusercontent.com/799953468/Quantumult-X/master/script/JD/jd_paopao.js, tag=泡泡大作战, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_paopao.png, enabled=true",
 
+"20 9 * * * https://raw.githubusercontent.com/age174/-/main/ximei.js, tag=西梅, img-url=https://ae01.alicdn.com/kf/Ucd02ea79ef22473daf3576486d134509Q.jpg, enabled=true"
   ]
 }
