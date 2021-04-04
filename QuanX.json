@@ -64,11 +64,8 @@
 
 
 {"_comment": "By 799953468"},
-"2 0 * * * https://raw.githubusercontent.com/799953468/Quantumult-X/master/script/JD/jd_paopao.js, tag=泡泡大作战, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_paopao.png, enabled=true",
+"2 0 * * * https://raw.githubusercontent.com/799953468/Quantumult-X/master/script/JD/jd_paopao.js, tag=泡泡大作战, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_paopao.png, enabled=true"
   
-
-{"_comment": "Sunert https://github.com/Sunert/Scripts/tree/master/Task"},
-"0 11 8 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/weibo.js, tag=微博&钱包, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/weibo.png, enabled=true"
 
   ]
 }
