@@ -3,26 +3,35 @@
  "description": "https://github.com/Today-to-Lsp",
  "task": [
 
-{"_comment": "By lxk0301"},
-"58 59 23 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/One/jx_cfdtx.js, tag=财富岛提现, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=true",
-"58 59 7,15,23 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/One/jd_joy_reward.js,tag=宠汪汪积分兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true",
-"58 59 23 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/One/jd_blueCoin.js,tag=东东超市兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true",
+{"_comment": "One"},
+"58 59 23 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Concurrent/jx_cfdtx1.js, tag=财富岛提现, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=true",
+"58 59 7,15,23 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Concurrent/jd_joy_reward1.js,tag=宠汪汪积分兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true",
+"58 59 23 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Concurrent/jd_blueCoin1.js,tag=东东超市兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true",
 
-"59 59 23 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Two/jx_cfdtx.js, tag=财富岛提现, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=true",
-"59 59 7,15,23 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Two/jd_joy_reward.js,tag=宠汪汪积分兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true",
-"59 59 23 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Two/jd_blueCoin.js,tag=东东超市兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true",
+"59 59 23 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Concurrent/jx_cfdtx2.js, tag=财富岛提现, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=true",
+"59 59 7,15,23 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Concurrent/jd_joy_reward2.js,tag=宠汪汪积分兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true",
+"59 59 23 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Concurrent/jd_blueCoin2.js,tag=东东超市兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true",
 
-"0 0 0 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Three/jx_cfdtx.js, tag=财富岛提现, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=true",
-"0 0 0,8,16 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Three/jd_joy_reward.js,tag=宠汪汪积分兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true",
-"0 0,30 0 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Three/jd_blueCoin.js,tag=东东超市兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true",
+"59 59 23 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Concurrent/jx_cfdtx3.js, tag=财富岛提现, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=true",
+"59 59 7,15,23 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Concurrent/jd_joy_reward3.js,tag=宠汪汪积分兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true",
+"59 59 23 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Concurrent/jd_blueCoin3.js,tag=东东超市兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true",
   
-"1 0 0 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Four/jx_cfdtx.js, tag=财富岛提现, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=true",
-"1 0 0,8,16 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Four/jd_joy_reward.js,tag=宠汪汪积分兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true",
-"1 0,30 0 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Four/jd_blueCoin.js,tag=东东超市兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true",
+"0 0 0 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Concurrent/jx_cfdtx4.js, tag=财富岛提现, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=true",
+"0 0 0,8,16 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Concurrent/jd_joy_reward4.js,tag=宠汪汪积分兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true",
+"0 0,30 0 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Concurrent/jd_blueCoin4.js,tag=东东超市兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true",
+ 
+ "0 0 0 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Concurrent/jx_cfdtx5.js, tag=财富岛提现, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=true",
+"0 0 0,8,16 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Concurrent/jd_joy_reward5.js,tag=宠汪汪积分兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true",
+"0 0,30 0 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Concurrent/jd_blueCoin5.js,tag=东东超市兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true",
+ 
+"1 0 0 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Concurrent/jx_cfdtx6.js, tag=财富岛提现, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=true",
+"1 0 0,8,16 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Concurrent/jd_joy_reward6.js,tag=宠汪汪积分兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true",
+"1 0,30 0 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Concurrent/jd_blueCoin6.js,tag=东东超市兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true",
 
-"2 0 0 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Five/jx_cfdtx.js, tag=财富岛提现, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=true",
-"2 0 0,8,16 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Five/jd_joy_reward.js,tag=宠汪汪积分兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true",
-"2 0,30 0 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Five/jd_blueCoin.js,tag=东东超市兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true",
+"2 0 0 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Concurrent/jx_cfdtx7.js, tag=财富岛提现, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=true",
+"2 0 0,8,16 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Concurrent/jd_joy_reward7.js,tag=宠汪汪积分兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true",
+"2 0,30 0 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Concurrent/jd_blueCoin7.js,tag=东东超市兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true",
+
 
 "0 0 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Two/jd_car_exchange.js, tag=京东汽车兑换, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true"
   ]
