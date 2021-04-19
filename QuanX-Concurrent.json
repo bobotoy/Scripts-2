@@ -33,6 +33,6 @@
 "2 0,30 0 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Concurrent/jd_blueCoin7.js,tag=东东超市兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true",
 
 
-"0 0 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Two/jd_car_exchange.js, tag=京东汽车兑换, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true"
+"0 0 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/Concurrent/jd_car_exchange.js, tag=京东汽车兑换, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true"
   ]
 }
