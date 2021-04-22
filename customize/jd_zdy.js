@@ -1,6 +1,6 @@
 /*
 只能用一天。需每天寻找直播抓包
-1 8-23 * * * https://raw.githubusercontent.com/taoziya-ya/Quantumult-X/7c283afe683eb6384b1906f0d352af3b46024463/on%20the%20hour_redrain.js
+#1 8-23 * * * https://raw.githubusercontent.com/taoziya-ya/Quantumult-X/7c283afe683eb6384b1906f0d352af3b46024463/on%20the%20hour_redrain.js
 */
 const $ = new Env('手动京豆雨');
 let allMessage = '';
@@ -10,7 +10,7 @@ let bodyList = {
     body: 'body=%7B%22liveId%22%3A%223689733%22%7D'
   }
 }
-let ids = 'RRA3CMggYFzqDma3Pz9DbPbFPs8unYk';
+let ids = 'RRA4RhWMc159kA62qLbaEa88evE7owb';
 
 const notify = $.isNode() ? require('./sendNotify') : '';
 //Node.js用户请在jdCookie.js处填写京东ck;
