@@ -1,0 +1,28 @@
+{
+ "name": "今天也是个Lsp-JD",
+ "description": "https://github.com/Today-to-Lsp",
+ "task": [
+
+{"_comment": "One"},
+"30 0 21 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/redrain/jd_zdy1.js, tag=红包雨, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_live_redrain.png, enabled=true",
+"30 0 21 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/redrain/jd_zdy2.js, tag=红包雨, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_live_redrain.png, enabled=true",
+"30 0 21 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/redrain/jd_zdy3.js, tag=红包雨, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_live_redrain.png, enabled=true",
+"30 0 21 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/redrain/jd_zdy4.js, tag=红包雨, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_live_redrain.png, enabled=true",
+"30 0 21 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/redrain/jd_zdy5.js, tag=红包雨, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_live_redrain.png, enabled=true",
+"30 0 21 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/redrain/jd_zdy6.js, tag=红包雨, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_live_redrain.png, enabled=true",
+"30 0 21 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/redrain/jd_zdy7.js, tag=红包雨, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_live_redrain.png, enabled=true",
+"30 0 21 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/redrain/jd_zdy8.js, tag=红包雨, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_live_redrain.png, enabled=true",
+"30 0 21 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/redrain/jd_zdy9.js, tag=红包雨, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_live_redrain.png, enabled=true",
+"30 0 21 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/redrain/jd_zdy10.js, tag=红包雨, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_live_redrain.png, enabled=true",
+"30 0 21 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/redrain/jd_zdy11.js, tag=红包雨, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_live_redrain.png, enabled=true",
+"30 0 21 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/redrain/jd_zdy12.js, tag=红包雨, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_live_redrain.png, enabled=true",
+"30 0 21 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/redrain/jd_zdy13.js, tag=红包雨, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_live_redrain.png, enabled=true",
+"30 0 21 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/redrain/jd_zdy14.js, tag=红包雨, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_live_redrain.png, enabled=true",
+"30 0 21 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/redrain/jd_zdy15.js, tag=红包雨, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_live_redrain.png, enabled=true",
+"30 0 21 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/redrain/jd_zdy16.js, tag=红包雨, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_live_redrain.png, enabled=true",
+"30 0 21 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/redrain/jd_zdy17.js, tag=红包雨, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_live_redrain.png, enabled=true",
+"30 0 21 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/redrain/jd_zdy18.js, tag=红包雨, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_live_redrain.png, enabled=true",
+"30 0 21 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/redrain/jd_zdy19.js, tag=红包雨, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_live_redrain.png, enabled=true",
+"30 0 21 * * * https://raw.githubusercontent.com/Today-to-Lsp/Scripts/main/redrain/jd_zdy20.js, tag=红包雨, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_live_redrain.png, enabled=true"
+  ]
+}
